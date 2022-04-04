@@ -1,0 +1,22 @@
+body{
+    background-color: plum;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+}
+
+#text{
+    background-color: aliceblue;
+}
+#father{
+    background-color: blueviolet;
+}
+#mother{
+    background-color: blueviolet;
+}
+#sister{
+    background-color: blueviolet;
+}
+#brother{
+   background-color: blueviolet;
+}
